@@ -20,4 +20,5 @@ sysinfo.txt
 *.bak
 
 .DS_STORE
+*.meta
 
